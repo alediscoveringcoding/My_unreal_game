@@ -1,7 +1,7 @@
 # My_unreal_game
 My game made in unreal to practice game dev
 
-Adventure Mania
+
 Adventure Mania is a single-player platform game. The primary goal of the game is to collect all the stars within a level without losing the character's lives.
 
 
